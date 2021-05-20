@@ -38,7 +38,7 @@
 - Web前端基础
   - [Web前端基础（01）](https://juejin.cn/post/6955456083536298015)
   - [Web前端基础（02）](https://juejin.cn/post/6955456163882369061)
-  - ``[Web前端基础（03）](https://juejin.cn/post/6955456171633459214)
+  - [Web前端基础（03）](https://juejin.cn/post/6955456171633459214)
   - [Web前端基础（04）](https://juejin.cn/post/6955456178012815397)
   - [Web前端基础（05）](https://juejin.cn/post/6955456184153276447)
   - [Web前端基础（06）](https://juejin.cn/post/6955456192386695205)
