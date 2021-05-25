@@ -228,7 +228,7 @@
 
 熬夜不易，觉得有很大帮助的朋友可以赏杯咖啡，赏了一定要加我微信跟我说。
 
-<img src="images/1621910602466.jpg" width="300" />
+<p align="center"><img src="images/1621910602466.jpg" width="300" /></p>
 
 
 
