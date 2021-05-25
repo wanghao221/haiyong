@@ -94,7 +94,7 @@
   - [原创 一个好玩的辞职信HTML版](https://blog.csdn.net/qq_44273429/article/details/110733572)
   - [原创 用HTML实现简单的下雪特效](https://blog.csdn.net/qq_44273429/article/details/105786233)
   
-- #### <img src="images/20210524160531469.jpg" width="80" />  [网站模板](https://blog.csdn.net/qq_44273429/category_11065621.html)
+- #### <img src="images/20210524160531469.jpg" width="60" />  [网站模板](https://blog.csdn.net/qq_44273429/category_11065621.html)
   - [原创 高端大气的前端响应式黑色装饰公司网站模板](https://blog.csdn.net/qq_44273429/article/details/116210281)
   - [原创 Minima黑色响应式后台管理模板](https://blog.csdn.net/qq_44273429/article/details/116904187)
   - [原创 创建具有视频背景的网站| HTML和CSS](https://blog.csdn.net/qq_44273429/article/details/116034742)
@@ -114,7 +114,7 @@
   - [原创 重载(overload) 和重写(override) 的区别?重载的方法能否根据返回类型进行区分?](https://blog.csdn.net/qq_44273429/article/details/106151543)
   - [原创 &和&&的区别](https://blog.csdn.net/qq_44273429/article/details/106151432)
   
-- #### <img src="images/202105211419430.png" width="80" />  [SpringMVC框架](https://blog.csdn.net/qq_44273429/category_10040318.html)
+- #### <img src="images/202105211419430.png" width="60" />  [SpringMVC框架](https://blog.csdn.net/qq_44273429/category_10040318.html)
 
   - [原创 SpringMVC框架基础知识（01）](https://blog.csdn.net/qq_44273429/article/details/106328635)
   - [原创 SpringMVC框架基础知识（02）](https://blog.csdn.net/qq_44273429/article/details/106328724)
@@ -244,7 +244,7 @@
 
 ****
 
-​                                                             <img src="images/20210522180031226.gif" width="300" />
+​                                                             <img src="images/20210522180031226.gif" width="300" align="center"/>
 
 <a name="微信"></a>  <a name="公众号"></a>
 
