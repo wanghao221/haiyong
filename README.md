@@ -44,7 +44,7 @@
   - [Web前端基础（07）](https://juejin.cn/post/6955456197847695367)
   - [Web前端基础（08）](https://juejin.cn/post/6955456204692783112)
   - [Web前端基础（09）](https://juejin.cn/post/6955456210875351070)
-- <img src="images/20210521133513757.png" style="zoom:25%;" />  [微信小程序](https://blog.csdn.net/qq_44273429/category_10300327.html)
+- <img src="images/20210521133513757.png" width="100" />  [微信小程序](https://blog.csdn.net/qq_44273429/category_10300327.html)
   - [微信小程序从入门到入土教程(01)](https://juejin.cn/post/6964280083045416991/)
   - [微信小程序从入门到入土教程(02)](https://juejin.cn/post/6965734312943550478)
   - [微信小程序从入门到入土教程(03)](https://juejin.cn/post/6966057212447817735/)
