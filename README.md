@@ -244,9 +244,7 @@
 
 ****
 
-​                                                             <img src="images/20210522180031226.gif" width="300" align="center"/>
-
-<a name="微信"></a>  <a name="公众号"></a>
+​  <p align="center"><img src="images/0.png" width="300" /><img src="images/0.jpg" width="300" /></p>
 
 
 加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群交流]** ，添加好友即可。 公众号也会经常分享一些干货。
