@@ -34,7 +34,7 @@
 
 # 目录(善用Ctrl+F)
 
-- <img src="images/20210524160504644.png" style="width="100";" />  [Web前端基础](https://blog.csdn.net/qq_44273429/category_10232485.html)
+- <img src="images/20210524160504644.png" style="width=100;" />  [Web前端基础](https://blog.csdn.net/qq_44273429/category_10232485.html)
   - [Web前端基础（01）](https://juejin.cn/post/6955456083536298015)
   - [Web前端基础（02）](https://juejin.cn/post/6955456163882369061)
   - [Web前端基础（03）](https://juejin.cn/post/6955456171633459214)
