@@ -244,11 +244,11 @@
 
 ****
 
-​  <p align="center"><img src="images/0.png" width="300" /><img src="images/0.jpg" width="300" /></p>
+​  
 
 
 加我个人微信回复 **"加群"** 或者关注公众号，并进入公众号 **[进群交流]** ，添加好友即可。 公众号也会经常分享一些干货。
 
 微信搜索 **[啦啦啦好想biu点什么]** ，第一时间阅读或者扫描下方的二维码。
 
-<img src="images/0.png" width="300" />
+<p align="center"><img src="images/0.png" width="300" /><img src="images/0.jpg" width="300" /></p>
