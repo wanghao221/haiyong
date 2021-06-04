@@ -1,11 +1,12 @@
-我不是什么大牛，我其实想做的就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。我要先坚持分享20年，大家来一起见证吧。
+我不是什么大牛，我想做的其实就是一个传播者。内容可能过于基础，但对于刚入门的人来说或许是一个窗口，一个解惑之窗。我要先坚持分享20年，大家来一起见证吧。
 
-每年至少会分享不少于`200篇`的优质文章，如果想第一时间获取文章，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)。
+每年至少会分享不少于`200篇`的优质文章，如果想第一时间获取文章，大家可以去[【公众号】](#公众号)获取或者加我[【微信】](#公众号)提意见(别忘记**Star**哟)。最近还开了一个店铺[【致知店铺】](#致知店铺)
 
 
 
 <p align="center">
-  <a href="https://blog.csdn.net/qq_44273429/"><img src="https://img.shields.io/badge/CSDN-CSDN-critical" alt="CSDN"></a>
+  <a href="https://blog.csdn.net/qq_44273429/"><img src="https://img.shields.io/badge/CSDN-海拥-critical" alt="CSDN"></a>
+  <a href="http://zsysjq.com.cn/store/127"><img src="https://img.shields.io/badge/致知-海拥-9cf" alt="致知店铺"></a>
   <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-啦啦啦好想biu点什么-informational" alt="公众号"></a>
   <a href="https://space.bilibili.com/63551025"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="哔哩哔哩"></a>
   <a href="https://segmentfault.com/u/haiyong"><img src="https://img.shields.io/badge/segmentfault-思否-9cf" alt="思否"></a>
@@ -33,6 +34,14 @@
 
 
 # 目录(善用Ctrl+F)
+
+- #### <img src="images/20210525164445172.png" width="60"/>  [CSDN新星计划](https://blog.csdn.net/qq_44273429/category_11087920.html)
+  
+  - [原创 超赞圆形动画进度条，爱了爱了(使用HTML、CSS和bootstrap框架)](https://blog.csdn.net/qq_44273429/article/details/117257364)
+  - [原创 超赞Win10日历悬停效果，爱了爱了(使用HTML、CSS和vanilla JS)](https://blog.csdn.net/qq_44273429/article/details/117338219)
+  - [原创 一文带你彻底搞懂Java和JavaScript的区别与相似之处(纯干货建议收藏)](https://blog.csdn.net/qq_44273429/article/details/117409345)
+  - [原创 这15个HTML/CSS错误我不信你没犯过(网站规范)](https://blog.csdn.net/qq_44273429/article/details/117439064)
+  - [原创 20+免费精美响应式Html5 网站模板01(含源码)](https://blog.csdn.net/qq_44273429/article/details/117460213)
 
 - #### <img src="images/20210524160504644.png" width="60"/>  [Web前端基础](https://blog.csdn.net/qq_44273429/category_10232485.html)
   
@@ -174,6 +183,7 @@
   - [原创 核心网络生命力和网络特征之间的相关性](https://blog.csdn.net/qq_44273429/article/details/113316619)
   - [原创 Google可能不会显示挑逗性的网络故事](https://blog.csdn.net/qq_44273429/article/details/113314578)
   - [原创 浅谈Google蜘蛛抓取的工作原理(待更新)](https://blog.csdn.net/qq_44273429/article/details/116565922)
+  - [原创 什么是H1标签？2021 年SEO最佳实践](https://blog.csdn.net/qq_44273429/article/details/117525703)
 
 - #### <img src="images/20210524165032823.png" width="60" />  [黑帽SEO](https://blog.csdn.net/qq_44273429/category_10383276.html)
 
@@ -234,9 +244,13 @@
 
 ![](https://klxxcdn.oss-cn-hangzhou.aliyuncs.com/histudy/hrm/media/s2.png)
 
- 
 
+<a name="致知店铺"></a> 
 
+# 致知店铺 
+
+店铺地址：[http://zsysjq.com.cn/store/127](http://zsysjq.com.cn/store/127)
+<p align="center"><img src="images/zhizhi.png" width="600" /></p>
 
 
 
@@ -244,7 +258,7 @@
 
 ****
 
-​ <p align="center"><img src="images/20210522180031226.gif" width="300" /></p>
+​<p align="center"><img src="images/20210522180031226.gif" width="300" /></p>
 
 <a name="微信"></a>  <a name="公众号"></a>
 
